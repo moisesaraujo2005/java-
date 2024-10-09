@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-nivelamento-metodos-moisesaraujo2005" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lista02/02-nivelamento-lacos-repeticao-e-randomicos-moisesaraujo2005" vcs="Git" />
   </component>
 </project>
